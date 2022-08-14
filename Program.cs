@@ -1,4 +1,4 @@
-﻿namespace BinarySearchTreeUC2
+namespace BinarySearchTreeUC2
 {
     class Program
     {
